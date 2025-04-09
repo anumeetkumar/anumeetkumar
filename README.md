@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=68b486&size=28&duration=6000&vCenter=true&width=600&height=80&lines=Anumeet+Kumar%2C+a+skilled+Fullstack+Developer+from+India." />
+  <img src="https://readme-typing-svg.herokuapp.com?color=68b486&size=28&duration=8000&vCenter=true&width=600&height=80&lines=Anumeet+Kumar%2C+a+skilled+Fullstack+Developer+from+India." />
 </p>
 
 <table>
